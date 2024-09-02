@@ -1,1 +1,1 @@
-# protos
+# Protobuff contracts
